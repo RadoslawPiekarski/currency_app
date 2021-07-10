@@ -1,4 +1,4 @@
-import codes from "./codes.mjs";
+import codes from "./codes.js"
 
 const currencyCodesRef = document.querySelector("#currencyCodesRef");
 codes.forEach((code) => {
@@ -17,3 +17,5 @@ const getExchangeRate = async (code) => {
 
 const result = await getExchangeRate("hrk");
 console.log(result);
+
+console.log(codes);
