@@ -1,0 +1,39 @@
+{
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "dolar amerykański",
+      "rate": 3.8427,
+      "date": "2021-07-11T14:49:51.965Z",
+      "id": 1
+    },
+    {
+      "code": "EUR",
+      "name": "euro",
+      "rate": 4.5467,
+      "date": "2021-07-11T14:56:22.942Z",
+      "id": 2
+    },
+    {
+      "code": "EUR",
+      "name": "euro",
+      "rate": 4.5467,
+      "date": "2021-07-11T14:57:15.759Z",
+      "id": 3
+    },
+    {
+      "code": "BGN",
+      "name": "lew (Bułgaria)",
+      "rate": 2.3247,
+      "date": "2021-07-11T22:02:06.656Z",
+      "id": 4
+    },
+    {
+      "code": "CHF",
+      "name": "frank szwajcarski",
+      "rate": 4.1965,
+      "date": "2021-07-11T22:02:54.075Z",
+      "id": 5
+    }
+  ]
+}
